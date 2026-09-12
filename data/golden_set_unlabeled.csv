@@ -1,0 +1,203 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id,intent_label,escalation_label,notes,sample_bucket
+2514660,208637,True,Mon Oct 30 08:27:07 +0000 2017,@AzureSupport Thanks.,,2514659.0,,,,short
+387913,207815,True,Mon Oct 09 13:45:07 +0000 2017,@azuresupport #azhelp: could you please help? :),387911,,,,,random
+229934,170789,True,Tue Oct 03 13:08:34 +0000 2017,@AzureSupport here u go: https://t.co/YWbXf9Acwo,229933,229935.0,,,,random
+2888674,800963,True,Tue Nov 28 12:49:53 +0000 2017,@AzureSupport Why might one of my @118056 AD members not be able to login to an Azure AD joined Win10 computer? (they have done it before),2888672,,,,,random
+466452,226006,True,Fri Dec 01 04:39:46 +0000 2017,@AzureSupport We look forward to!,466450,466453.0,,,,random
+33096,123323,True,Wed Nov 01 17:19:51 +0000 2017,@AzureSupport Done: https://t.co/undmq5SNx6,"33098,33099",33095.0,,,,random
+1690222,513130,True,Mon Nov 06 23:48:42 +0000 2017,@AzureSupport it'll be there in the morning!,1690223,1690220.0,,,,random
+689956,284893,True,Mon Oct 16 19:58:09 +0000 2017,@AzureSupport #azhelp still haven't received a response to the issue I asked about and it's been over 5 days now. Please help: https://t.co/hOkf9KrYnU,689957,689955.0,,,,random
+555155,249610,True,Sat Dec 02 20:01:42 +0000 2017,@AzureSupport FWIW other tools installed (eg. Tensorflow) seem to work properly.,555154,555156.0,,,,random
+394366,209448,True,Mon Oct 09 17:41:07 +0000 2017,"@AzureSupport Got an unresponsive VM, tried rebooting, status is ""running"", but still unresponsive and 0% cpu usage. seems stuck in boot",394365,,,,,random
+420857,215311,True,Tue Oct 10 07:37:17 +0000 2017,@azuresupport #azTechHelp,420856,,,,,short
+2127663,626413,True,Wed Nov 08 17:19:11 +0000 2017,"@azuresupport #AHD:RA1B-FU0 @118056 why no announcements, this is a big issue!! Shame on you guys!",2127662,,,,,random
+2104509,184126,True,Wed Nov 08 14:26:38 +0000 2017,@AzureSupport Thanks :),2104510,2104508.0,,,,short
+2620890,740558,True,Fri Nov 17 14:36:58 +0000 2017,@azuresupport #azTechHelp,"2620889,2620891",,,,,short
+2401483,382426,True,Fri Oct 20 13:28:37 +0000 2017,"@AzureSupport I did as I always do, I just saw here, some people can connect, some do not",2401484,2401482.0,,,,random
+1826026,230383,True,Tue Nov 21 17:27:56 +0000 2017,"@AzureSupport That's what I said. 🤔 can do. I'll be doing some more investigating myself-- hate those ""unable to repro."" bugs. 🕷","1826024,1826028",1826029.0,,,,negative
+2412122,161658,True,Tue Nov 14 16:03:07 +0000 2017,"@azuresupport #azhelp:I've been getting 'Resource temporarily unavailable"" when trying to connect via FTP for my app service for over 24 hours. No mention of service outage on the dashboard. What to do?",2412121,,,,,random
+2113287,623137,True,Wed Nov 08 15:04:29 +0000 2017,@azuresupport #AHD:PT41-JL8 This issue is killing me. I cant work around it in any reasonable way. Please help. My CSP partner is hiding behind your status report.,"2113286,2113288",,,,,random
+609152,264807,True,Wed Nov 22 12:57:49 +0000 2017,@AzureSupport Works when I am tethered and not on hotel WiFi. Argg. It was an SSL issue. I hate it when hotels proxy things,609154,609151.0,,,,negative
+1356006,290047,True,Fri Oct 27 19:13:40 +0000 2017,@AzureSupport I am trying to delete a backup management server from a recovery service vault. It succeeds but is still showing on d-board,1356004,,,,,random
+2399718,690514,True,Fri Oct 20 11:11:35 +0000 2017,@AzureSupport Are you going to introduce free App Service plan for Linux?,"2399717,2399719",,,,,random
+194083,161628,True,Wed Oct 04 22:27:25 +0000 2017,@AzureSupport How can i conect a VPN MultiSIte?,194082,194084.0,,,,random
+185577,513138,True,Mon Nov 06 20:13:52 +0000 2017,@AzureSupport We are also hitting problems for all our resources in North Central US.,"1690243,1690244",185569.0,,,,complex
+1320979,428432,True,Fri Oct 27 08:58:45 +0000 2017,@AzureSupport is that the correct one? (I could not see it a moment ago) https://t.co/XbDvLPHpml,1320978,1320980.0,,,,random
+1101409,379868,True,Sun Oct 15 08:25:39 +0000 2017,@AzureSupport Finally received support through channels.  Thank you,1101411,1101408.0,,,,random
+609159,264808,True,Wed Nov 22 12:20:15 +0000 2017,@azuresupport #azTechHelp,609158,,,,,random
+384949,207139,True,Mon Oct 09 11:53:06 +0000 2017,@AzureSupport  https://t.co/KJsif9JazU,,384947.0,,,,random
+2749034,492136,True,Mon Nov 20 23:11:46 +0000 2017,@AzureSupport Thanks!,2749033,2749035.0,,,,short
+607096,264270,True,Mon Nov 20 18:40:15 +0000 2017,@azuresupport #azTechHelp,"607095,607097",,,,,short
+52795,127882,True,Wed Nov 01 18:43:17 +0000 2017,"@AzureSupport Yeah. I tried to follow the instructions exactly from https://t.co/GVrzf6ST6I, which is what it said to do before the tutorial I sent you.","52796,52797",52794.0,,,,random
+233282,171526,True,Thu Oct 05 11:03:46 +0000 2017,@azuresupport #azTechHelp,233281,,,,,short
+899321,333528,True,Thu Oct 19 18:59:39 +0000 2017,@azuresupport #azhelp:,"899320,899322",,,,,short
+2875931,119523,True,Tue Nov 28 05:36:45 +0000 2017,@AzureSupport and this https://t.co/S2qyVrlGvO,2875929,2875934.0,,,,random
+845369,320937,True,Fri Oct 20 13:46:45 +0000 2017,@azuresupport #azTechHelp,845368,,,,,random
+650983,274817,True,Wed Nov 22 21:25:56 +0000 2017,@AzureSupport done,650982,650984.0,,,,short
+2578148,23873,True,Thu Nov 16 21:33:21 +0000 2017,@AzureSupport I tried that and the reply was 'read the document you're already reading'. But hey: give it a shot: https://t.co/HMtuOPiIi2,,2578147.0,,,,random
+2627392,742098,True,Fri Nov 17 16:26:20 +0000 2017,"@AzureSupport I'm trying connect to an Azure Database for MySQL using WordPress, and I cannot get it to connect. I'm using the correct username and password, and I specifically allowed the server to receive connections from the App Service that the site is hosted on. Any ideas?",2627391,,,,,random
+1393375,444058,True,Mon Oct 16 16:19:43 +0000 2017,@AzureSupport Via PowerShell. Same ARM Template and inputs. Did switch from Mac to Windows though. Restarting seemed to get it to go.,1393376,1393374.0,,,,random
+185596,516421,True,Mon Nov 06 20:31:51 +0000 2017,@AzureSupport ETA?,1703559,185569.0,,,,short
+1064422,371301,True,Mon Oct 23 13:35:09 +0000 2017,@azuresupport #azhel?p: which location on azure host the manageengine service desk plus?,1064421,,,,,complex
+2267601,659964,True,Sat Nov 11 08:28:44 +0000 2017,@659965 @AzureSupport Also having issues: https://t.co/wEzrZwIaIc,"2267600,2267602,2267603,2267604",2267605.0,,,,complex
+2722489,763782,True,Mon Nov 20 10:29:35 +0000 2017,@AzureSupport I created a support ticket instead of forum,2722488,2722490.0,,,,random
+2537270,721726,True,Thu Nov 16 08:50:12 +0000 2017,@AzureSupport can you confirm this is legit? the whole thing and especially giving only &lt;36h notice sure makes me think it's a scam. https://t.co/dCpFb80TmJ,2537268,,,,,negative
+246239,174496,True,Thu Oct 05 15:15:48 +0000 2017,"@azuresupport #azTechHelp Bad Request error for creating Automation svc. Tried multiple times, can you help check?",246237,,,,,complex
+2387853,688065,True,Sat Nov 11 18:57:36 +0000 2017,"@azuresupport #azTechHelp
+Je viens de créer mon accès AZUR et ma première VM.
+Le problème est que Windows 2016 est en anglais .",2387852,,,,,random
+1626015,128664,True,Sun Nov 05 17:46:45 +0000 2017,@AzureSupport Ok thnx. Done,1626014,1626016.0,,,,random
+2386830,416197,True,Fri Oct 20 12:13:23 +0000 2017,@AzureSupport Thanx,,2386828.0,,,,short
+191194,160916,True,Wed Oct 04 09:50:51 +0000 2017,"@AzureSupport hello, the problem is intermittent, so we know it's enabled",,191193.0,,,,random
+555146,249609,True,Sat Dec 02 20:36:15 +0000 2017,"@25304 @25305 @AzureSupport Isn't the whole purpose of moving to cloud is to have unlimited scalability? We've created clusters for DEV and Staging. When we are ready to move to the cloud for production, we can't create any more clusters.  This is ridiculous...",555145,555147.0,,,,random
+1109233,381778,True,Wed Oct 25 03:08:01 +0000 2017,@AzureSupport Yes.,1109231,1109240.0,,,,short
+2389612,688421,True,Tue Nov 14 08:22:48 +0000 2017,@azuresupport #azTechHelp,2389611,,,,,random
+256382,176987,True,Thu Oct 05 19:04:31 +0000 2017,"@azuresupport #azTechHelp
+How can I change timezone im my azure sql server",256380,,,,,random
+2328719,674322,True,Mon Nov 13 03:36:14 +0000 2017,@azuresupport #azTechHelp,2328718,,,,,short
+60092,129738,True,Wed Nov 01 22:02:17 +0000 2017,@AzureSupport Thank you!,60093,60091.0,,,,short
+2408386,459806,True,Tue Nov 14 15:27:48 +0000 2017,@AzureSupport Also notice duration shows 0 ms.,2408385,2408387.0,,,,complex
+2387874,387188,True,Tue Nov 14 07:31:02 +0000 2017,"@AzureSupport  Hi Team, Need help w.r.t ASR Capture option  &gt;&gt; While, there exists an article about "" Capture Image "" through Classic feature :  https://t.co/0op1B3q2rP 
+ Does it apply the same for ASR ? If yes - Do you have documentation in place ?",2387873,,,,,random
+118308,142261,True,Wed Nov 22 07:01:57 +0000 2017,@AzureSupport Sure! DM me,"118307,118309",118310.0,,,,short
+377458,205567,True,Mon Oct 09 03:54:19 +0000 2017,@118056 @AzureSupport It is not working right from the beginning.,"377914,377915",377457.0,,,,random
+1266214,416492,True,Thu Oct 26 12:36:53 +0000 2017,"@AzureSupport This about the surface hub itself, I am getting the error on the OMS dashboard after adding the ""Surface Hub Solution"" in OMS",1266212,1266220.0,,,,random
+1592932,489585,True,Tue Oct 17 08:42:13 +0000 2017,"@AzureSupport Yep- I folllow steps 1-2 . At step 3, after ""Click this icon to see a list of all your function apps"" , I see the error","1592931,1592933",1592934.0,,,,random
+2401481,382426,True,Fri Oct 20 13:22:19 +0000 2017,@AzureSupport documentation?,2401482,2401479.0,,,,short
+2107982,621998,True,Wed Nov 08 08:56:48 +0000 2017,"@AzureSupport I have 2 VNETs with 2 VPN GWs. I want to setup connection between them. I followed wizard in portal, connection is created, but it was showing status Connecting for like ~30 minutes. Now it succeseeded",2107981,2107983.0,,,,random
+2449645,702084,True,Sun Oct 29 15:49:16 +0000 2017,"@AzureSupport "":null,""timeStampUtc"":""2017-10-29T15:42:33.8717547Z"",""clientRequestId"":""9bb839ae-1374-4b2a-826a-219261152075"",""internalTransactionId"":""66d09",2449644,2449646.0,,,,random
+609168,264809,True,Wed Nov 22 12:11:52 +0000 2017,@azuresupport #azhelp:,609167,,,,,short
+1115682,383258,True,Tue Oct 24 06:30:31 +0000 2017,@AzureSupport Done. https://t.co/Bh7ucBpMXe Thanks!,1115683,1115681.0,,,,random
+696620,286214,True,Thu Nov 09 01:38:25 +0000 2017,@AzureSupport Sent another DM,696619,696621.0,,,,short
+2430611,184521,True,Tue Nov 14 20:10:08 +0000 2017,"@AzureSupport Worst thing ever, when new project comes up, you see a perfect VM (Ev3), and then realize you're in South Central. So either move everything or settle for less.",2430610,,,,,negative
+612371,265637,True,Wed Nov 22 13:44:29 +0000 2017,"@AzureSupport I am new user in Azure, where to get sub ID?",612376,612369.0,,,,random
+2963152,147517,True,Wed Nov 29 21:04:17 +0000 2017,@AzureSupport Cleared the browser cache. Tried multiple browsers. Had to do a reset of the machine unfortunately because of some other issue but it still takes a lot of time :(,2963151,2963153.0,,,,complex
+248566,175056,True,Thu Oct 05 16:22:45 +0000 2017,"@AzureSupport no, the databases are all active and work but nothing is showing up in the portal for them. when i click on a database it shows the server",248564,248575.0,,,,random
+2054267,147518,True,Fri Oct 06 08:05:42 +0000 2017,"Morning @AzureSupport - trying to create a tenant on the demos portal and getting ""Tenant creation is currently unavailable"". Help pls?",2054266,,,,,random
+55859,128665,True,Tue Oct 31 18:11:56 +0000 2017,"@AzureSupport Yes, multiple browsers, Edge, Chrome, even InPrivate session. Starts probably in morning. Different customers.",55858,55860.0,,,,complex
+66527,131215,True,Tue Nov 28 14:07:59 +0000 2017,@azuresupport #azTechHelp - I'm not able to spin new VM's into azure infrastructure. Please advice,"66526,66528",,,,,random
+286695,161669,True,Fri Oct 06 14:43:24 +0000 2017,@AzureSupport We tried to send email with office 365 and also with other email. Email is not working.,286697,286694.0,,,,complex
+699241,286791,True,Thu Nov 23 15:32:41 +0000 2017,@AzureSupport Thanks for asking guys!,,699240.0,,,,random
+2899366,803235,True,Tue Nov 28 17:04:09 +0000 2017,@azuresupport #azTechHelp,2899365,,,,,short
+2551823,513151,True,Mon Oct 30 15:24:15 +0000 2017,@azuresupport #azhelp:,2551822,,,,,short
+1800016,540831,True,Wed Oct 18 00:44:17 +0000 2017,@AzureSupport I have a line of code that works on my local machine but when I deploy it Azure says that there isn't an instance of the code,1800015,1800017.0,,,,random
+2719204,264263,True,Mon Nov 20 08:11:01 +0000 2017,"@AzureSupport @118056 a. How frequently this can happen...?
+
+b. What caused it, was it specific to us.. is there a formal communication that businesses got impacted?
+
+c. How can we get notified for such failures?",2719202,,,,,random
+2328769,674328,True,Sun Nov 12 20:49:00 +0000 2017,"@azuresupport #azTechHelp I've got a failed classic -&gt; rm migration.  Don't want anything related, what do you need to delete them for me?","2328768,2328770,2328771",,,,,random
+1475200,462457,True,Thu Nov 02 21:37:26 +0000 2017,@azuresupport #azhelp:,"1475201,1475199,1475202",,,,,random
+1444302,455144,True,Mon Oct 16 19:44:40 +0000 2017,@AzureSupport Yes one moment,1444303,1444301.0,,,,short
+2615016,442701,True,Fri Nov 17 16:04:00 +0000 2017,@AzureSupport Was unable to remotely connect via the desired port,2615017,1386842.0,,,,random
+194085,161628,True,Wed Oct 04 22:22:01 +0000 2017,@AzureSupport I need to connect 5 sites on-premises with 2 virtual machines in Azure.,194084,194086.0,,,,random
+967047,349522,True,Thu Oct 12 01:26:24 +0000 2017,@azuresupport #azTechHelpThe connection string  in the application's configuration file does not contain the required providerName attribute,"967046,967048",,,,,random
+2551821,513151,True,Mon Oct 30 15:25:58 +0000 2017,@azuresupport #azhelp: who is the right contact for SLA VM refunds? I have a ticket that has not been resolved going on for over 72 hours.,2551820,,,,,random
+547022,247227,True,Sat Dec 02 16:44:37 +0000 2017,@AzureSupport Hi. Trying to add a new Recovery Services Agent. When downloading vault key getting download error: 409 conflict as notification in Portal. Thoughts?,547021,,,,,random
+266769,179566,True,Thu Oct 05 23:29:29 +0000 2017,@azuresupport #azhelp:,266768,,,,,short
+1606658,493540,True,Sun Nov 05 02:07:25 +0000 2017,@azuresupport #azhelp: wondering why a Twitter Logic App connector set to 30 minute interval is firing 1000s of times an hour...running up $,1606657,,,,,random
+1446189,455585,True,Thu Nov 02 15:44:14 +0000 2017,@azuresupport #azTechHelp can't delete azure data factory,"1446188,1446190",,,,,random
+1992422,589653,True,Fri Nov 03 09:00:26 +0000 2017,"@AzureSupport Any known issues with WebApps Custom Domains pane? Not worked last 2 days on my sites (all in same sub), stuck on loading dots",1992421,,,,,random
+390721,208509,True,Mon Oct 09 15:34:36 +0000 2017,@AzureSupport I always run it in a private browsing window (due to the special German AD). Additionally tried with another browser - does not work.,390720,390722.0,,,,complex
+2187984,629957,True,Thu Nov 09 21:37:45 +0000 2017,@AzureSupport  https://t.co/nyq1Gb37XN,,2187982.0,,,,random
+381645,206502,True,Thu Nov 16 20:51:08 +0000 2017,@AzureSupport Please provide an FTE alias as this is a very poor experience,"381644,381646",381647.0,,,,random
+2658976,264265,True,Sat Nov 18 21:02:59 +0000 2017,@AzureSupport thankyou,,2658975.0,,,,short
+1499387,468121,True,Mon Nov 06 18:42:23 +0000 2017,@AzureSupport Still no resolve... ???,1687010,1499386.0,,,,random
+2578149,23873,True,Thu Nov 16 21:29:56 +0000 2017,"Error in Azure - can create and attach disks but the OS can't see them.
+
+Two different people in a forum replied 'you may have a bug'
+
+This is not confidence-inspiring stuff.",2578147,,,,,random
+2263481,219361,True,Sat Nov 11 04:06:12 +0000 2017,"@azuresupport #azTechHelp Active Directory B2C login suddenly is not working win 10 pc, my android phone works (Edge and Chrome on pc Fail)",2263480,,,,,random
+1089663,347803,True,Fri Oct 13 19:04:54 +0000 2017,Another terrible day with @AzureSupport,1089661,,,,,negative
+2113255,623131,True,Wed Nov 08 16:47:11 +0000 2017,@AzureSupport @623130 It doesn't show any issues at https://t.co/tV1nuSE44Q but I guess it's good to know someone else is having a similar issue. I'm also in South Central US with the same error,,2113254.0,,,,complex
+2510419,715597,True,Thu Nov 16 14:59:59 +0000 2017,"@AzureSupport Oh, I see, I got an issue with my azure account, I'm the owner of 3 DB's but when I click each one to see the details it says ""The resource may be erased"" but it si no erased 'cause I can access to DB's via MSSQL  client",2510421,2510418.0,,,,random
+1699553,515399,True,Mon Nov 06 20:57:17 +0000 2017,@AzureSupport  https://t.co/Dt76rojeZ4,,1699551.0,,,,random
+1438113,453771,True,Thu Nov 02 10:45:58 +0000 2017,"@AzureSupport No I’m not seeing any errors (only if I try to delete it again). Yes, the endpoints have been deleted only the profile is left","1438115,1438116",1438112.0,,,,random
+1263669,415936,True,Thu Oct 26 11:21:44 +0000 2017,@AzureSupport @415935 is finding that self reset isn't working for his Azure tenant. Global admin is locked out.,1263667,1263659.0,,,,random
+1024515,362438,True,Mon Oct 23 18:45:19 +0000 2017,@AzureSupport ...Doesn't give us a clear limit to work within,,1024513.0,,,,random
+2223073,649203,True,Fri Nov 10 12:30:36 +0000 2017,@AzureSupport can you point me to docs on how to organise/manage resources across several user accounts - we're on BizSpark so have credits spread over 5 a/c but need advice on how to arrange webapps/db etc,2223072,,,,,random
+2150707,632078,True,Thu Nov 09 20:18:39 +0000 2017,"@AzureSupport Great, thanks",,2150706.0,,,,random
+1699578,515409,True,Mon Nov 06 20:42:01 +0000 2017,@118056 we have an app service/site that's down. Looks like there are others having issues. Is there an #outage that might be related?,1699577,,,,,random
+1471593,461589,True,Fri Nov 03 00:50:32 +0000 2017,@AzureSupport Looking to talk to a Product Manager about current architecture constraints and roadmap items wrt Azure Site Recovery and VMware vSphere.,1471592,1471594.0,,,,random
+1499408,468126,True,Fri Nov 03 14:27:53 +0000 2017,@azuresupport #azTechHelp,1499407,,,,,short
+426278,161640,True,Tue Oct 10 13:02:14 +0000 2017,"@AzureSupport I can only apologise. Our app service failed to establish a SQL connection but it turned out to be ""rogue code"". Sorry. Our fault",426280,426277.0,,,,random
+2658934,749524,True,Sun Nov 19 21:58:25 +0000 2017,"@AzureSupport Nope, it just sits there for a minute or two then gives a timeout message. On the portal I see it in progress, then it disappears.","2658936,2658937",2658933.0,,,,random
+728946,294602,True,Wed Oct 11 08:49:52 +0000 2017,@AzureSupport They also asked me to record a message. What kind of support is this?,728948,728945.0,,,,complex
+439593,219363,True,Mon Nov 20 07:47:10 +0000 2017,"@AzureSupport Thank you very much. When I migrate a classic VM to a ressource manager VM, will the C: disc also enlarged to 100GB, when it is a D11 VM?",2717908,439592.0,,,,complex
+19389,120306,True,Wed Nov 01 06:10:14 +0000 2017,"@azuresupport #azTechHelp I have an app on azure web apps and mapped a custom domain using cname, but ended up having 500 or 502 errors.",19388,,,,,random
+2396992,621998,True,Tue Nov 14 12:37:55 +0000 2017,"@AzureSupport Yes, it is related; but now it is about another subscription. And there is no replies at all at this time",2396990,2396993.0,,,,random
+1225045,407405,True,Wed Oct 25 15:45:43 +0000 2017,@AzureSupport I have an immediate billing question I am looking to get resolved. I have also submitted a ticket! Can you please help?!,1225044,,,,,complex
+849394,321821,True,Sat Nov 25 10:44:28 +0000 2017,@AzureSupport Ok,849395,849393.0,,,,short
+2540153,722343,True,Thu Nov 16 10:02:54 +0000 2017,@azuresupport #azhelp:,2540152,,,,,short
+2328613,139811,True,Thu Nov 16 02:29:50 +0000 2017,"@AzureSupport Yes, correct","2328614,2328615",2328612.0,,,,random
+194247,161667,True,Wed Oct 04 16:31:37 +0000 2017,@azuresupport #azhelp:,194246,,,,,short
+636460,270957,True,Wed Nov 22 19:53:33 +0000 2017,@AzureSupport I am not.,636462,636459.0,,,,short
+2880690,789541,True,Tue Nov 28 06:15:49 +0000 2017,"@118056 hey I went for free trial and now you deducted 6264.22 from my debit card. This is unfair, I want my money back. I have the email from you support that my intention was to use only free trial. Credit my money back unsubscribe me from any Azure related services.","2880689,2880691",,,,,random
+2379529,686180,True,Tue Nov 14 04:07:18 +0000 2017,@azuresupport #azhelp:,2379528,,,,,random
+2844258,282591,True,Mon Nov 27 17:15:37 +0000 2017,@AzureSupport Thank you.,,2844257.0,,,,random
+677896,281725,True,Thu Oct 05 16:20:18 +0000 2017,@AzureSupport I have an issue “Creating a local PFX copy of App Service Certificate” using Azure Cloud Powershell. I sent a DM to @118056,677895,,,,,random
+521566,240420,True,Sat Dec 02 03:47:46 +0000 2017,"@118056 Ah, when I try to instantiate a PostgreSQL database in Azure Portal, I see v9.6 and v9.5 are supported. Could we also v10.1, and the rest of the v9.x series?",523346,521565.0,,,,complex
+1868208,558067,True,Wed Oct 18 08:38:43 +0000 2017,"@azuresupport #azhelp:  Hi, I'm getting an error when I create/edit an Alert, I can't find any info about it. Could u help? https://t.co/sRP5dSbiPR",1868207,,,,,random
+1675205,509670,True,Mon Nov 06 14:02:14 +0000 2017,@AzureSupport  https://t.co/n6DxhwBpZ6,1675203,1675206.0,,,,random
+1688370,512674,True,Mon Nov 06 19:47:28 +0000 2017,@AzureSupport @118056 Seems like you are having huge issues. Any ETA????,1688369,,,,,random
+428947,216812,True,Wed Oct 11 17:04:40 +0000 2017,"@AzureSupport @azuresupport #azcommunity
+followed https://t.co/58z9NXeyRV  but that didn't solve the problem with outgoing IP blacklisted sending emails","428949,428950",428946.0,,,,random
+1837433,550855,True,Wed Oct 18 05:49:02 +0000 2017,@azuresupport #azTechHelp I have created a reverse dns properly but still not working. there must be seperate support for network,1837432,,,,,random
+2408362,692534,True,Tue Nov 14 17:06:54 +0000 2017,@AzureSupport I did Restore and chose a point in time. Mu my QuantyxDB database is the same.. https://t.co/bCjAK4q31P,2408363,2408361.0,,,,random
+447759,221093,True,Thu Nov 30 19:43:19 +0000 2017,"@azuresupport #azTechHelp
+
+Hi,  I have a technical question",447758,,,,,random
+2386831,416197,True,Fri Oct 20 10:22:09 +0000 2017,@azuresupport #azhelp:,2386828,,,,,short
+229919,170786,True,Thu Oct 05 08:50:45 +0000 2017,@AzureSupport can you tell me how put  OSAKEY de AzureSubcriptionServicesOpen in my trial subcription?,229918,229920.0,,,,random
+1281092,419751,True,Thu Oct 26 16:57:34 +0000 2017,"I get ""The Resource 'Microsoft.Sql/servers/BI_Dev' under resource group 'XXX' was not found."". I have multiple subscript https://t.co/neAPsSxzfV",1281091,,,,,complex
+2328556,674293,True,Mon Nov 13 14:42:34 +0000 2017,@azuresupport #azTechHelp,2328555,,,,,short
+1498285,467876,True,Fri Nov 03 13:07:31 +0000 2017,@AzureSupport tks,"1498286,1498287",1498284.0,,,,short
+703462,286793,True,Thu Nov 23 16:25:52 +0000 2017,@AzureSupport Thank you,703461,703463.0,,,,random
+2590035,733644,True,Mon Oct 30 19:19:42 +0000 2017,"@AzureSupport It looks like I had to reassociate my MSDN subscription last week. It's company controlled, but nothing lapsed as far as I know.",2590034,2590036.0,,,,random
+318377,191962,True,Sat Oct 07 10:06:26 +0000 2017,@azuresupport #azTechHelp,318376,,,,,short
+703433,288054,True,Sat Nov 11 13:18:54 +0000 2017,@azuresupport #azTechHelp,703432,,,,,short
+1446178,455583,True,Tue Oct 31 14:53:41 +0000 2017,"@AzureSupport Great documentation! But..I don't think the problem is lack of knowledge. The problem is the ""server is busy"" for download, open, copy, etc.","1446177,1446179,1446180",1446181.0,,,,random
+1433198,452771,True,Thu Nov 02 13:33:26 +0000 2017,"@AzureSupport It's all green yet I still get a ""Provisioning failed. Allocation failed. ..."" error. Is there really no space for 2 core 8 GB ram??",1433200,1433197.0,,,,random
+672898,280523,True,Thu Nov 23 08:02:37 +0000 2017,"@118056 Hi, Am planning on using #AzureMachineLearningService for some experiments, Does it support MXNET?",672897,,,,,random
+829986,317640,True,Thu Oct 19 12:00:29 +0000 2017,@AzureSupport Hi there ! What license do the Azure user need to have to enroll computers with the School PC-app? Thank you!,829985,,,,,random
+728931,207481,True,Wed Oct 11 13:58:24 +0000 2017,@AzureSupport is there a way for someone to do a remote session with me to help me understand where the issue is?,728932,728929.0,,,,random
+133298,146052,True,Sat Nov 18 15:35:42 +0000 2017,@AzureSupport Implementing Microsoft azure infrastructure solutions,,133297.0,,,,random
+1653713,504783,True,Mon Nov 06 08:27:31 +0000 2017,@AzureSupport ok. logged,1653715,1653712.0,,,,random
+233257,171523,True,Thu Oct 05 13:27:25 +0000 2017,"@AzureSupport The wording is really ambiguous. Also doesn't address my question about MFA on the admin/root user. Not loving the experience, TBH.",,233255.0,,,,complex
+1291424,422007,True,Tue Oct 17 17:43:42 +0000 2017,@azuresupport #azhelp: How can I join Apple Macs to AzureAD? We are trying to get MS MFA working and need this functionality.,"1291422,1291426",,,,,random
+2262197,658616,True,Wed Nov 15 16:02:26 +0000 2017,"@azuresupport #azhelp:eclipse azure tool kits, trying to deploy a web service. Subscription list comes back empty. I have Microsoft Imagine for students, and activated it. I can log in portal azure with my account. Help?",2262196,,,,,random
+2399323,690422,True,Fri Oct 20 11:14:51 +0000 2017,@AzureSupport I now want to understand limitations of this approach. Please help.,2399325,2399320.0,,,,random
+16696,119687,True,Thu Nov 02 10:50:49 +0000 2017,@AzureSupport Done.  Thanks,16697,16695.0,,,,short
+303926,188563,True,Fri Oct 06 23:16:16 +0000 2017,@AzureSupport Awaiting for updates as our work is impacted. Appreciate your internal follow-up to ensure timely resolution of the incident,303927,303924.0,,,,random
+1031477,364075,True,Mon Oct 23 06:02:25 +0000 2017,@AzureSupport @331860 I would use AzCopy for large files. It supports resume,"1031478,1031479",1031475.0,,,,random
+2309471,336383,True,Thu Oct 19 21:14:48 +0000 2017,@azuresupport #azTechHelp,2309470,,,,,short
+529796,242694,True,Tue Nov 28 08:06:30 +0000 2017,@AzureSupport 👍,,529795.0,,,,short
+1826056,548117,True,Tue Nov 21 18:29:42 +0000 2017,"@AzureSupport Hi, do you an update on this?  Please also contact me at __email__.",1826055,1826057.0,,,,complex
+892283,331863,True,Wed Oct 18 13:22:10 +0000 2017,@azuresupport #azhelp: I need to add multiple schemas to easy table and the only way I see is importing a csv. Is there another way?,"892282,892284",,,,,complex
+54246,127539,True,Wed Nov 01 18:31:05 +0000 2017,@AzureSupport the vm has managed disk. anyother ways to copy at least the disks to another region?,"54245,54247",,,,,random
+1222437,184463,True,Wed Oct 25 15:26:13 +0000 2017,@azuresupport #azTechHelp An alert was triggered for &gt;1.5TB of data in &lt;10 minutes but the metric chart doesn't show it. Why?,"1222438,1222436",,,,,random
+159789,152804,True,Sat Nov 25 03:04:27 +0000 2017,"@AzureSupport Yes, we want to backup on the same computer, diferent folders in diferent times.Thanks","159790,159791",159788.0,,,,random
+2851087,161654,True,Mon Nov 27 19:35:34 +0000 2017,@AzureSupport Sounds good...,,2851086.0,,,,short
+2638157,744575,True,Fri Nov 17 20:03:52 +0000 2017,@azuresupport #azhelp: can you confirm my bill going fwd is $0? Unable to delete CC even though i've unsubscribed from everything. tech at senseihub dot com,"2638156,2638158",,,,,random
+472771,147517,True,Fri Dec 01 13:13:47 +0000 2017,@AzureSupport I haven't received any email from Azure support for this case. I also just checked the portal and there is nothing in the conversation history.,472772,472770.0,,,,complex
+1444270,455140,True,Mon Oct 16 19:30:22 +0000 2017,@AzureSupport Thanks ! mucho appreciated!,1444271,1444269.0,,,,random
+253292,176212,True,Thu Oct 05 21:47:53 +0000 2017,"@AzureSupport My Microsoft account is my identity...being forced to replace it due to your issue, that you somehow can't fix, is unacceptable...",253293,253291.0,,,,negative
+1588738,488568,True,Wed Oct 18 05:34:36 +0000 2017,@AzureSupport Thanks for the info,1588740,1588737.0,,,,random
+1217319,405651,True,Wed Oct 25 13:51:32 +0000 2017,"Hi @AzureSupport : I need the price 2 seed data to the DC in Europe &amp; what the costs associated to seeding.
+__email__.😂","1217318,1217320",,,,,random
+421696,215466,True,Tue Oct 10 08:15:34 +0000 2017,Is #vsts down ? @AzureSupport,"421695,421697",,,,,short
+1844718,552635,True,Tue Nov 07 17:42:54 +0000 2017,@169516 @AzureSupport Works.. thank you,1844719,1844716.0,,,,random
+2985287,819889,True,Thu Nov 30 06:09:23 +0000 2017,Thanks for the reply. @AzureSupport advised me to log a billing ticket and I have done so. Thanks. https://t.co/wZ68r66FNS,2985286,,,,,random
+800050,310632,True,Thu Oct 12 15:20:44 +0000 2017,"@AzureSupport Yes, the subscription has only one account attached to it, also its free tier",800048,800056.0,,,,complex
+16059,119523,True,Wed Nov 01 03:08:42 +0000 2017,"@AzureSupport wondering, what is going on when I deploy a new version of singleton webjob to production? Any docs on that?",16055,,,,,random
+1107166,381306,True,Tue Oct 24 00:12:53 +0000 2017,"@AzureSupport My Azure account name is __email__. I want my Gradle project to be pulled from my Github repo, and built then deployed in Azure.",,1107165.0,,,,random
+691309,285191,True,Mon Oct 16 10:58:31 +0000 2017,@AzureSupport Thank You.,,691308.0,,,,short
+857413,323605,True,Fri Oct 20 16:33:59 +0000 2017,@azuresupport #azTechHelp,"857414,857407",,,,,short
+1897327,565484,True,Wed Oct 18 12:20:31 +0000 2017,@azuresupport #azTechHelp How to evict a specific Application Instance from an App Service Plan? We have a web app where on node is corrupt.,1897325,,,,,random
+2913510,806535,True,Tue Nov 28 22:27:23 +0000 2017,@AzureSupport so it seems to me it is an infrastructure error,2913509,2913511.0,,,,random
+2163618,635227,True,Tue Nov 14 08:43:01 +0000 2017,@AzureSupport Hi am getting error while pointing Azure db as subscription... Please send document to easily set up replication,2163620,2163617.0,,,,random
+1888669,560184,True,Wed Oct 18 11:31:17 +0000 2017,@AzureSupport Subscription I'd: __email__,,1888666.0,,,,random
+698662,286660,True,Mon Nov 13 16:08:01 +0000 2017,@AzureSupport That's good to know but it's still super expensive. Plus if i want to roll this feature out to a large group of mobile users it's limiting.,"698661,698663",698664.0,,,,random
+1288739,421414,True,Thu Oct 26 19:21:10 +0000 2017,@azuresupport #azhelp:can you advise how I can increase the number of cores I can deploy in my PAYG azure account,1288738,,,,,random
+2274819,661662,True,Sat Nov 11 06:30:39 +0000 2017,"@AzureSupport Thanks, but using ArcServe UDP software for server backup and restore. Can connect VM, while fetching data to restore error msg showing https://t.co/lJRSZWJ93F",2274818,2274820.0,,,,random
