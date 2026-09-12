@@ -1,0 +1,23 @@
+# Environment
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Large data files (subsample is checked in, full dataset is not)
+data/twcs.csv
+data/twcs.csv.zip
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Embeddings cache (regenerable)
+data/embeddings.npy
