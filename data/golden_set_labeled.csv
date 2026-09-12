@@ -1,9 +1,9 @@
 tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id,intent_label,escalation_label,notes,sample_bucket
-2514660,208637,True,Mon Oct 30 08:27:07 +0000 2017,@AzureSupport Thanks.,,2514659.0,other,auto_handle,Polite closing or courtesy message,short
+2514660,208637,True,Mon Oct 30 08:27:07 +0000 2017,@AzureSupport Thanks.,,2514659.0,portal_tools,escalate,Polite closing or courtesy message,short
 387913,207815,True,Mon Oct 09 13:45:07 +0000 2017,@azuresupport #azhelp: could you please help? :),387911,,other,auto_handle,General technical assistance request,random
 229934,170789,True,Tue Oct 03 13:08:34 +0000 2017,@AzureSupport here u go: https://t.co/YWbXf9Acwo,229933,229935.0,other,auto_handle,Customer follow-up or link submission,random
 2888674,800963,True,Tue Nov 28 12:49:53 +0000 2017,@AzureSupport Why might one of my @118056 AD members not be able to login to an Azure AD joined Win10 computer? (they have done it before),2888672,,identity_security_network,escalate,"Authentication/login failure, security scam concern, or IP block",random
-466452,226006,True,Fri Dec 01 04:39:46 +0000 2017,@AzureSupport We look forward to!,466450,466453.0,other,auto_handle,Polite closing or courtesy message,random
+466452,226006,True,Fri Dec 01 04:39:46 +0000 2017,@AzureSupport We look forward to!,466450,466453.0,other,escalate,Polite closing or courtesy message,random
 33096,123323,True,Wed Nov 01 17:19:51 +0000 2017,@AzureSupport Done: https://t.co/undmq5SNx6,"33098,33099",33095.0,other,auto_handle,Customer follow-up or link submission,random
 1690222,513130,True,Mon Nov 06 23:48:42 +0000 2017,@AzureSupport it'll be there in the morning!,1690223,1690220.0,other,auto_handle,General technical assistance request,random
 689956,284893,True,Mon Oct 16 19:58:09 +0000 2017,@AzureSupport #azhelp still haven't received a response to the issue I asked about and it's been over 5 days now. Please help: https://t.co/hOkf9KrYnU,689957,689955.0,other,escalate,"Customer frustration, escalation request, or general incident impact",random

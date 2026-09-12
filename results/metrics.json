@@ -1,0 +1,484 @@
+{
+  "intent": {
+    "accuracy": 0.914,
+    "macro_f1": 0.8554,
+    "per_class": {
+      "billing_subscription": {
+        "precision": 0.9166666666666666,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.9166666666666666,
+        "support": 12.0
+      },
+      "compute_containers": {
+        "precision": 0.7619047619047619,
+        "recall": 0.8888888888888888,
+        "f1-score": 0.8205128205128205,
+        "support": 18.0
+      },
+      "database_storage": {
+        "precision": 0.75,
+        "recall": 0.8,
+        "f1-score": 0.7741935483870968,
+        "support": 15.0
+      },
+      "identity_security_network": {
+        "precision": 0.875,
+        "recall": 0.8235294117647058,
+        "f1-score": 0.8484848484848485,
+        "support": 17.0
+      },
+      "other": {
+        "precision": 0.9907407407407407,
+        "recall": 0.9553571428571429,
+        "f1-score": 0.9727272727272728,
+        "support": 112.0
+      },
+      "portal_tools": {
+        "precision": 0.7692307692307693,
+        "recall": 0.8333333333333334,
+        "f1-score": 0.8,
+        "support": 12.0
+      },
+      "accuracy": 0.9139784946236559,
+      "macro avg": {
+        "precision": 0.8439238230904897,
+        "recall": 0.8696292405851228,
+        "f1-score": 0.8554308594631176,
+        "support": 186.0
+      },
+      "weighted avg": {
+        "precision": 0.9195323543441823,
+        "recall": 0.9139784946236559,
+        "f1-score": 0.9158700589501839,
+        "support": 186.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        11,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        1,
+        16,
+        0,
+        0,
+        0,
+        1
+      ],
+      [
+        0,
+        2,
+        12,
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        2,
+        14,
+        0,
+        1
+      ],
+      [
+        0,
+        2,
+        1,
+        1,
+        107,
+        1
+      ],
+      [
+        0,
+        0,
+        1,
+        0,
+        1,
+        10
+      ]
+    ],
+    "confusion_labels": [
+      "billing_subscription",
+      "compute_containers",
+      "database_storage",
+      "identity_security_network",
+      "other",
+      "portal_tools"
+    ],
+    "class_distribution": {
+      "portal_tools": 12,
+      "other": 112,
+      "identity_security_network": 17,
+      "compute_containers": 18,
+      "database_storage": 15,
+      "billing_subscription": 12
+    }
+  },
+  "escalation": {
+    "accuracy": 0.8011,
+    "escalate_precision": 0.2609,
+    "escalate_recall": 0.2308,
+    "escalate_f1": 0.2449,
+    "false_auto_handle": 20,
+    "false_escalate": 17,
+    "confusion_matrix": [
+      [
+        143,
+        17
+      ],
+      [
+        20,
+        6
+      ]
+    ],
+    "confusion_labels": [
+      "auto_handle",
+      "escalate"
+    ],
+    "class_distribution": {
+      "escalate": 26,
+      "auto_handle": 160
+    }
+  },
+  "groundedness": {
+    "mean": 0.1005,
+    "median": 0.0824,
+    "std": 0.0898,
+    "min": 0.0,
+    "max": 0.44
+  },
+  "llm_judge": {
+    "mean_groundedness": 4.0,
+    "mean_tone": 4.0,
+    "mean_completeness": 3.86,
+    "mean_overall": 3.95
+  },
+  "baselines": {
+    "intent_majority": {
+      "accuracy": 0.6022,
+      "macro_f1": 0.1253,
+      "per_class": {
+        "billing_subscription": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 12.0
+        },
+        "compute_containers": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 18.0
+        },
+        "database_storage": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 15.0
+        },
+        "identity_security_network": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 17.0
+        },
+        "other": {
+          "precision": 0.6021505376344086,
+          "recall": 1.0,
+          "f1-score": 0.7516778523489933,
+          "support": 112.0
+        },
+        "portal_tools": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1-score": 0.0,
+          "support": 12.0
+        },
+        "accuracy": 0.6021505376344086,
+        "macro avg": {
+          "precision": 0.1003584229390681,
+          "recall": 0.16666666666666666,
+          "f1-score": 0.12527964205816555,
+          "support": 186.0
+        },
+        "weighted avg": {
+          "precision": 0.3625852699734073,
+          "recall": 0.6021505376344086,
+          "f1-score": 0.45262322291982393,
+          "support": 186.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          0,
+          0,
+          12,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          18,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          15,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          17,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          112,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          12,
+          0
+        ]
+      ],
+      "confusion_labels": [
+        "billing_subscription",
+        "compute_containers",
+        "database_storage",
+        "identity_security_network",
+        "other",
+        "portal_tools"
+      ],
+      "class_distribution": {
+        "portal_tools": 12,
+        "other": 112,
+        "identity_security_network": 17,
+        "compute_containers": 18,
+        "database_storage": 15,
+        "billing_subscription": 12
+      }
+    },
+    "intent_tfidf_logreg": {
+      "accuracy": 0.543,
+      "macro_f1": 0.288,
+      "per_class": {
+        "billing_subscription": {
+          "precision": 0.2222222222222222,
+          "recall": 0.16666666666666666,
+          "f1-score": 0.19047619047619047,
+          "support": 12.0
+        },
+        "compute_containers": {
+          "precision": 0.3125,
+          "recall": 0.2777777777777778,
+          "f1-score": 0.29411764705882354,
+          "support": 18.0
+        },
+        "database_storage": {
+          "precision": 0.1111111111111111,
+          "recall": 0.13333333333333333,
+          "f1-score": 0.12121212121212122,
+          "support": 15.0
+        },
+        "identity_security_network": {
+          "precision": 0.3,
+          "recall": 0.17647058823529413,
+          "f1-score": 0.2222222222222222,
+          "support": 17.0
+        },
+        "other": {
+          "precision": 0.8130841121495327,
+          "recall": 0.7767857142857143,
+          "f1-score": 0.7945205479452054,
+          "support": 112.0
+        },
+        "portal_tools": {
+          "precision": 0.07692307692307693,
+          "recall": 0.16666666666666666,
+          "f1-score": 0.10526315789473684,
+          "support": 12.0
+        },
+        "accuracy": 0.543010752688172,
+        "macro avg": {
+          "precision": 0.30597342040099046,
+          "recall": 0.2829501244942422,
+          "f1-score": 0.28796864780154996,
+          "support": 186.0
+        },
+        "weighted avg": {
+          "precision": 0.5755205957911717,
+          "recall": 0.543010752688172,
+          "f1-score": 0.5560497354480245,
+          "support": 186.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          2,
+          0,
+          2,
+          0,
+          5,
+          3
+        ],
+        [
+          1,
+          5,
+          3,
+          2,
+          1,
+          6
+        ],
+        [
+          0,
+          4,
+          2,
+          1,
+          3,
+          5
+        ],
+        [
+          2,
+          1,
+          3,
+          3,
+          5,
+          3
+        ],
+        [
+          4,
+          4,
+          7,
+          3,
+          87,
+          7
+        ],
+        [
+          0,
+          2,
+          1,
+          1,
+          6,
+          2
+        ]
+      ],
+      "confusion_labels": [
+        "billing_subscription",
+        "compute_containers",
+        "database_storage",
+        "identity_security_network",
+        "other",
+        "portal_tools"
+      ],
+      "class_distribution": {
+        "portal_tools": 12,
+        "other": 112,
+        "identity_security_network": 17,
+        "compute_containers": 18,
+        "database_storage": 15,
+        "billing_subscription": 12
+      }
+    },
+    "escalation_always_escalate": {
+      "accuracy": 0.1398,
+      "escalate_precision": 0.1398,
+      "escalate_recall": 1.0,
+      "escalate_f1": 0.2453,
+      "false_auto_handle": 0,
+      "false_escalate": 160,
+      "confusion_matrix": [
+        [
+          0,
+          160
+        ],
+        [
+          0,
+          26
+        ]
+      ],
+      "confusion_labels": [
+        "auto_handle",
+        "escalate"
+      ],
+      "class_distribution": {
+        "escalate": 26,
+        "auto_handle": 160
+      }
+    },
+    "escalation_always_auto": {
+      "accuracy": 0.8602,
+      "escalate_precision": 0.0,
+      "escalate_recall": 0.0,
+      "escalate_f1": 0.0,
+      "false_auto_handle": 26,
+      "false_escalate": 0,
+      "confusion_matrix": [
+        [
+          160,
+          0
+        ],
+        [
+          26,
+          0
+        ]
+      ],
+      "confusion_labels": [
+        "auto_handle",
+        "escalate"
+      ],
+      "class_distribution": {
+        "escalate": 26,
+        "auto_handle": 160
+      }
+    },
+    "escalation_keyword_only": {
+      "accuracy": 0.8495,
+      "escalate_precision": 0.0,
+      "escalate_recall": 0.0,
+      "escalate_f1": 0.0,
+      "false_auto_handle": 26,
+      "false_escalate": 2,
+      "confusion_matrix": [
+        [
+          158,
+          2
+        ],
+        [
+          26,
+          0
+        ]
+      ],
+      "confusion_labels": [
+        "auto_handle",
+        "escalate"
+      ],
+      "class_distribution": {
+        "escalate": 26,
+        "auto_handle": 160
+      }
+    }
+  }
+}

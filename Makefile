@@ -19,7 +19,7 @@ data-prep:
 
 # ── Reproduce headline numbers from cache (<15 min) ──────────────────
 reproduce:
-	.venv/bin/python eval/run_eval.py
+	PYTHONHASHSEED=0 .venv/bin/python eval/run_eval.py
 	@echo ""
 	@echo "✅ Results written to results/metrics.json and results/eval_examples.csv"
 
