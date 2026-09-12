@@ -24,83 +24,63 @@ logger = logging.getLogger(__name__)
 # the template that gets filled in from actual data inspection.
 
 INTENT_TAXONOMY = {
-    "account_access": {
-        "label": "Account Access / Login Issues",
-        "definition": "Customer cannot log in, account locked, password reset, account hacked or compromised.",
+    "compute_containers": {
+        "label": "Compute & Containers",
+        "definition": "Issues with Virtual Machines, App Services, AKS (Kubernetes), Cloud Services, or scaling.",
         "examples": [
-            "I can't log into my account, keeps saying wrong password",
-            "My account got hacked and someone changed my email",
-            "I've been locked out of my account for 3 days now",
+            "Getting the following error when trying to create a cloud service",
+            "What is the min VM size required to apply PowerShell DSC",
+            "az aks create fails",
         ],
-        "risk_tier": "high",  # for escalation logic
+        "risk_tier": "medium",
     },
-    "subscription_billing": {
-        "label": "Subscription & Billing",
-        "definition": "Issues with payments, charges, plan changes, refunds, free trial problems.",
+    "database_storage": {
+        "label": "Database & Storage",
+        "definition": "Issues with Azure SQL, CosmosDB, Storage Accounts, Redis, or data loss.",
         "examples": [
-            "I was charged twice this month for my premium subscription",
-            "How do I cancel my subscription?",
-            "I signed up for a free trial but got charged immediately",
+            "azure db having problems in west EU again?",
+            "I have 3 instance on Azure Sqlsever... one of them can not connect",
+            "My blob storage is returning 403 forbidden",
+        ],
+        "risk_tier": "medium",
+    },
+    "identity_security_network": {
+        "label": "Identity, Security & Network",
+        "definition": "Azure AD, MFA, Intune, VPN, Certificates, VNet, DNS resolution, and RBAC issues.",
+        "examples": [
+            "error al conectar la vpn en azure, No se encuentra un certificado",
+            "Looking at Azure AD Premium (to use conditional rules for MFA.)",
+            "Title is 401 Error From Corporate Network",
         ],
         "risk_tier": "high",
     },
-    "playback_streaming": {
-        "label": "Playback / Streaming Issues",
-        "definition": "Songs won't play, buffering, audio quality issues, playback errors.",
+    "billing_subscription": {
+        "label": "Billing & Subscription",
+        "definition": "Payment failures, credit limits, subscriptions disabled, pricing questions, trial issues.",
         "examples": [
-            "Songs keep pausing randomly every few seconds",
-            "I'm getting an error when I try to play any song",
-            "The audio quality is terrible even on high settings",
+            "Am getting a warning 'That my service will be disabled...Payment has not been received'",
+            "Other than the $150 monthly credit limit, I didn't think there were any subscriptions",
+            "Why was I charged for a free trial?",
         ],
-        "risk_tier": "medium",
+        "risk_tier": "high",
     },
-    "content_availability": {
-        "label": "Content Availability",
-        "definition": "Missing songs, albums, podcasts, or content not available in user's region.",
+    "portal_tools": {
+        "label": "Portal & Tools",
+        "definition": "Azure Portal UI bugs, Cloud Shell, Azure CLI, deployment errors, Azure PowerShell.",
         "examples": [
-            "Why was this album removed from the platform?",
-            "This song isn't available in my country anymore",
-            "I can't find a podcast that used to be there",
-        ],
-        "risk_tier": "low",
-    },
-    "app_technical": {
-        "label": "App Crash / Technical Bug",
-        "definition": "App crashes, freezes, update issues, installation problems, sync issues.",
-        "examples": [
-            "The app keeps crashing every time I open it",
-            "After the latest update the app won't even load",
-            "My playlists aren't syncing between my phone and laptop",
-        ],
-        "risk_tier": "medium",
-    },
-    "device_connectivity": {
-        "label": "Device Connectivity",
-        "definition": "Issues connecting to speakers, car systems, smart home devices, casting.",
-        "examples": [
-            "Can't connect to my Bluetooth speaker anymore",
-            "The app won't connect to my car's audio system",
-            "Casting to my smart TV stopped working",
-        ],
-        "risk_tier": "low",
-    },
-    "feature_feedback": {
-        "label": "Feature Request / Feedback",
-        "definition": "Suggestions for new features, complaints about UI changes, general feedback.",
-        "examples": [
-            "You should add a sleep timer feature",
-            "The new UI update is terrible, bring back the old one",
-            "It would be great if you could sort playlists by date added",
+            "buttons of cloud shell (change powershell/cli, help, settings) don't work in FF",
+            "Who is in charge of the new Azure portal for Intune? I want to yell at you...",
+            "But I couldn't check App logs in 'Continuous Export'.",
         ],
         "risk_tier": "low",
     },
     "other": {
         "label": "Other / General Inquiry",
-        "definition": "Messages that don't fit other categories: greetings, vague complaints, off-topic.",
+        "definition": "Vague complaints, greetings, non-English messages, feedback without specific service mention.",
         "examples": [
-            "Hey, quick question for you",
-            "This is the worst service ever",
-            "What's going on with you guys today?",
+            "And trying to get support is way more difficult then it should be",
+            "Has this been resolved?",
+            "OK",
         ],
         "risk_tier": "low",
     },

@@ -79,11 +79,11 @@ def scrub_pii(text: str) -> str:
     # Order matters: do specific patterns before generic ones
     result = text
 
-    # Replace @mentions (but preserve common brand handles)
-    result = _MENTION_RE.sub("@[user]", result)
-
     # Replace emails
     result = _EMAIL_RE.sub("[email]", result)
+
+    # Replace @mentions (but preserve common brand handles)
+    result = _MENTION_RE.sub("@[user]", result)
 
     # Replace URLs
     result = _URL_RE.sub("[link]", result)

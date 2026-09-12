@@ -76,7 +76,9 @@ def load_dataset(path: Path = TWCS_PATH) -> pd.DataFrame:
 
     # Convert tweet IDs to string for consistent joining
     for col in ["tweet_id", "response_tweet_id", "in_response_to_tweet_id"]:
-        df[col] = df[col].astype(str).replace("nan", "")
+        df[col] = df[col].apply(
+            lambda x: "" if pd.isna(x) or str(x) == "nan" else (str(x)[:-2] if str(x).endswith(".0") else str(x))
+        )
 
     return df
 

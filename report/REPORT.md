@@ -6,10 +6,10 @@
 
 *[To be filled after Phase 1 brand selection and Phase 6 evaluation]*
 
-A good customer support agent for [brand] must:
-- Correctly understand what the customer is asking about (intent classification)
-- Propose a response that's grounded in how the brand actually handles these issues (not hallucinated advice)
-- Know when to auto-handle (low-risk, clear issue, strong precedent match) vs. escalate to a human (high-risk, ambiguous, novel issue)
+A good customer support agent for AzureSupport must:
+- Correctly understand what the customer is asking about (e.g., distinguishing between a billing error and a cloud compute failure).
+- Propose a response that's grounded in how Azure actually handles these issues (providing relevant doc links, avoiding hallucinated troubleshooting steps).
+- Know when to auto-handle (low-risk, clear issue, strong precedent match like pointing to an Azure doc) vs. escalate to a human (high-risk, ambiguous, production-down issues, billing disputes).
 
 The asymmetric cost structure is critical: a false auto-handle (sending a robotic reply when a human should intervene) is much worse than a false escalate (routing to a human unnecessarily). We optimize for **escalation recall** over escalation precision.
 

@@ -69,7 +69,7 @@ class TestEscalation:
     def test_high_confidence_low_risk_auto_handles(self):
         decision, reason = decide_escalation(
             message="How do I add songs to my playlist?",
-            intent_key="feature_feedback",
+            intent_key="portal_tools",
             confidence=0.9,
             top_similarity=0.7,
             risk_tier="low",
@@ -90,7 +90,7 @@ class TestEscalation:
     def test_legal_keyword_escalates(self):
         decision, reason = decide_escalation(
             message="I'm going to contact my lawyer about this",
-            intent_key="subscription_billing",
+            intent_key="billing_subscription",
             confidence=0.8,
             top_similarity=0.7,
             risk_tier="high",
@@ -124,16 +124,16 @@ class TestIntentParsing:
 
     def test_parses_valid_json(self):
         intent, conf = _parse_classification_response(
-            '{"intent": "account_access", "confidence": 4}'
+            '{"intent": "identity_security_network", "confidence": 4}'
         )
-        assert intent == "account_access"
+        assert intent == "identity_security_network"
         assert 0.5 < conf <= 1.0
 
     def test_handles_markdown_code_block(self):
         intent, conf = _parse_classification_response(
-            '```json\n{"intent": "playback_streaming", "confidence": 5}\n```'
+            '```json\n{"intent": "compute_containers", "confidence": 5}\n```'
         )
-        assert intent == "playback_streaming"
+        assert intent == "compute_containers"
 
     def test_falls_back_on_invalid_intent(self):
         intent, _ = _parse_classification_response(

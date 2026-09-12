@@ -1,6 +1,6 @@
 # Hiver SDE Intern — AI Customer Support Agent
 
-An AI-powered customer support agent built for **[brand TBD after Phase 1 data analysis]** using the [Kaggle Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter) dataset.
+An AI-powered customer support agent built for **AzureSupport** using the [Kaggle Customer Support on Twitter](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter) dataset.
 
 The agent:
 1. **Classifies** incoming customer messages into intent categories

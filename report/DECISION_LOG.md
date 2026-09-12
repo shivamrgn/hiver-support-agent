@@ -4,7 +4,7 @@ Every non-obvious decision is logged here at the moment it's made, not reconstru
 
 ---
 
-1. **Brand selection: TBD after Phase 1 data analysis.** Will compare top brands on: inbound volume, % resolved threads, English-language share, and average thread length. Prefer a brand with 5K–20K inbound tweets (enough for retrieval corpus, not so many that the subsample is hard to manage), high resolved-thread rate, and a focused problem domain.
+1. **Brand selection: AzureSupport.** Based on the Phase 1 data analysis, `AzureSupport` was selected. It has a good balance of inbound volume, a very high resolved-thread rate, and a focused problem domain (cloud computing infrastructure, identity, and billing), which makes it suitable for intent taxonomy and retrieval-augmented generation.
 
 2. **Embedding model: `all-MiniLM-L6-v2`** over larger models (`all-mpnet-base-v2`, OpenAI `text-embedding-3-small`). Reason: runs locally (no API cost, no key required for retrieval index), 384-dim embeddings are sufficient for cosine similarity over a few thousand vectors, and it's the most commonly-benchmarked small model. Trade-off: lower absolute quality than larger models, but retrieval is over a small, domain-specific corpus where even moderate embeddings perform well.
 
